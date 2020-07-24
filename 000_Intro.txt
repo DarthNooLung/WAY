@@ -1,5 +1,6 @@
 프로젝트명
     - WAY : Who Are You
+    - 에이요 : Are You OK
     
 최종목표
     - 안면인식을 통한 사람 인식
