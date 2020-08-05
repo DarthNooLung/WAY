@@ -4,4 +4,6 @@
     
 얼굴인식
     - https://blog.naver.com/roboholic84/221533459586
-    - https://m.blog.naver.com/PostView.nhn?blogId=chandong83&logNo=221436424539&proxyReferer=https:%2F%2Fwww.google.com%2F
+    - https://blog.naver.com/chandong83/221436424539
+        - OpenCV를 통한 얼굴 인식하여 잠금 해제
+    
