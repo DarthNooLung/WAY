@@ -6,7 +6,11 @@
     - https://blog.naver.com/roboholic84/221533459586
     - https://blog.naver.com/chandong83/221436424539
         - OpenCV를 통한 얼굴 인식하여 잠금 해제
+    - https://www.popit.kr/openface-exo-member-face-recognition/
+        - dnn에 대해 대충 적어져있음
     
 기타 사이트
     - https://kau-deeperent.tistory.com/m/category/3.5%EA%B8%B0%28200104~%29/%EC%B6%9C%EC%84%9D%EC%B2%B4%ED%81%AC%20%ED%8C%80
         - 출석관리 프로그램
+    - https://github.com/spmallick/learnopencv
+        - OpenCV 다양한 예제
